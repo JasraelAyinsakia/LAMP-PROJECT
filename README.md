@@ -10,7 +10,8 @@ Before getting into this Lamp project, i would like to address What a STack (tec
 
 So for this ,I am going to tackle LAMP. But before we begin, soe Basics
 
-PREREQUISTITES
+PREREQUISTITES.
+
 To complete this LAMP project, one must need an AWS account and a virtual server with Ubuntu Server OS.
 pinning up a new EC2 instance (an instance of a virtual server) is only a matter of a few clicks.
 
